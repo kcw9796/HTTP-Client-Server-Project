@@ -2,7 +2,7 @@
 Networks project to create an HTTP client and server in c++
 
 http_client.cc                    
-  Usage: http_client k|u host port path    
+  Usage: http_client k|u host port path    
   Sets up socket connection with host on the port number using kernel or user stack     
   Sends GET request to host to search for file in path     
   Receives message, prints response if not found or prints file if found   
