@@ -18,7 +18,7 @@ http_server1 k|u port
 Allows for one connection at a time on port number and severs files in its directory    
 
 ## http_server2.cc   
-  Same as server 1 but it allows multiple connections at once (still blocks on reads and writes)
+Same as server 1 but it allows multiple connections at once (still blocks on reads and writes)
 
 ## http_server3.cc   
-  Same as server 3 but it disallows blocking on any reads or writes, so multiple connections can be served without problems
+Same as server 2 but it also disallows blocking on any reads or writes, so multiple connections can be served without problems
