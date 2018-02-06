@@ -2,7 +2,7 @@
 Networks project to create an HTTP client and server in c++
 
 ## http_client.cc 
-### Usage:
+### Usage: 
 ```
 http_client k|u host port path    
 ```
