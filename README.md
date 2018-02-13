@@ -1,5 +1,5 @@
 # HTTP Client Server Project
-Networks project to create an HTTP client and server in c++
+Networks project to create an HTTP client and server in c++ 
 
 ## http_client.cc 
 ### Usage: 
